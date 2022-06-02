@@ -1,0 +1,202 @@
+[
+  {
+    "No_of_question": "Question 01 0f 20",
+    "difficulty": "&#9733;&#9734;&#9734;&#9734;&#9734;",
+    "title": "MS-Word is an example of ?",
+    "options": [
+      "An operating system",
+      "A processing device",
+      "Application software",
+      "An input device"
+    ],
+    "correctOptionIndex": "3"
+  },
+  {
+    "No_of_question": "Question 02 0f 20",
+    "difficulty": "&#9733;&#9733;&#9734;&#9734;&#9734;",
+    "title": "Which of the following is a popular programming language for developing multimedia webpages ?",
+    "options": ["COBOL", "Java", "BASIC", "Assembler"],
+    "correctOptionIndex": "2"
+  },
+  {
+    "No_of_question": "Question 03 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9734;&#9734;",
+    "title": "Which of the following software applications would be the most appropriate for performing numerical and statistical calculations ?",
+    "options": [
+      "Database",
+      "Document Processor",
+      "Graphic Package",
+      "Spread Sheet"
+    ],
+    "correctOptionIndex": "4"
+  },
+  {
+    "No_of_question": "Question 04 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "In React what is used to pass data to a component from outside?",
+    "options": ["setState", "render with arguments", "props", "PropTypes"],
+    "correctOptionIndex": "3"
+  },
+  {
+    "No_of_question": "Question 05 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "At the highest level, React components have lifecycle events that fall into ?",
+    "options": [
+      "Initialization",
+      "State/Property Updates",
+      "Destruction",
+      "All of these"
+    ],
+    "correctOptionIndex": "4"
+  },
+  {
+    "No_of_question": "Question 06 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "4. How many elements does a react component return ?",
+    "options": [
+      "2 Elements",
+      "1 Element",
+      "Multiple Elements",
+      "None of These"
+    ],
+    "correctOptionIndex": "2"
+  },
+  {
+    "No_of_question": "Question 07 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": ". What function can be used to update state?",
+    "option": ["setState()", "updateState()", "upState()", "downState()"],
+    "correctOptionIndex": "1"
+  },
+  {
+    "No_of_question": "Question 08 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "What is the DOM?",
+    "options": [
+      "Document Object Model",
+      "Data Object Model",
+      "Data Option Model",
+      "Documentation Object Model"
+    ],
+    "correctOptionIndex": "1"
+  },
+  {
+    "No_of_question": "Question 09 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "Variabel default React JS",
+    "options": ["Props", "Statefull", "Stateless", "State"],
+    "correctOptionIndex": "4"
+  },
+  {
+    "No_of_question": "Question 10 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "There are two types of components in React",
+    "options": [
+      "UseState, Stateless",
+      "Statefull, Stateless",
+      "Unstatefull Statefull",
+      "None of these"
+    ],
+    "correctOptionIndex": "2"
+  },
+  {
+    "No_of_question": "Question 11 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "React.Js was created by? ",
+    "options": ["Google", "Microsoft", "Facebook", "All of above"],
+    "correctOptionIndex": "3"
+  },
+  {
+    "No_of_question": "Question 12 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "Which concept includes OOP's?",
+    "options": [
+      "Functional Components",
+      "Class Components",
+      "Oriented Components",
+      "None of these"
+    ],
+    "correctOptionIndex": "2"
+  },
+  {
+    "No_of_question": "Question 13 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "What is React.Js used for?",
+    "options": ["Server-Side", "For Both", "Client-Side", "None of these"],
+    "correctOptionIndex": "3"
+  },
+  {
+    "No_of_question": "Question 14 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "What function allows you to render React content in an HTML page ?",
+    "options": [
+      "React.mount()",
+      "ReactDOM.start()",
+      "ReactDOM.render()",
+      "React.render()"
+    ],
+    "correctOptionIndex": "4"
+  },
+  {
+    "No_of_question": "Question 15 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "What is JSX?",
+    "options": [
+      "syntax extension to JavaScript",
+      "JSX produces data",
+      "Tool to control the data",
+      "none of the above"
+    ],
+    "correctOptionIndex": "1"
+  },
+  {
+    "No_of_question": "Question 16 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "Who is the father of React.js?",
+    "options": ["Jordan mike", "Nile", "Jordan Walke", "Nike John"],
+    "correctOptionIndex": "3"
+  },
+  {
+    "No_of_question": "Question 17 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "What is babel in react?",
+    "options": [
+      "Compiler",
+      "Transpiler",
+      "Interpreter",
+      "Both Compiler & Transpiler"
+    ],
+    "correctOptionIndex": "4"
+  },
+  {
+    "No_of_question": "Question 18 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "React supports all the syntax of ?",
+    "options": ["ES6", "Redux", "Native Java", "None of the above"],
+    "correctOptionIndex": "1"
+  },
+  {
+    "No_of_question": "Question 19 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "React is mainly for building ?",
+    "options": [
+      "Database",
+      "Connectivity",
+      "Design platform",
+      "User interface"
+    ],
+    "correctOptionIndex": "4"
+  },
+  {
+    "No_of_question": "Question 20 0f 20",
+    "difficulty": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "title": "in which directory react components are saved ?",
+    "options": [
+      "Inside vendor/",
+      "Inside js/components/",
+      "Inside vendor/components/",
+      "Inside external/components/"
+    ],
+    "correctOptionIndex": "2"
+  }
+]
